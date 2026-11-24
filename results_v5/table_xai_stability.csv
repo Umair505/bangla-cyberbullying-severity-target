@@ -1,0 +1,7 @@
+task,method,check,mean,std,count
+sev,lime,perturb,0.7849,0.2627,15
+sev,lime,seed,0.8156,0.2582,15
+sev,shap,perturb,0.8952,0.1881,15
+tgt,lime,perturb,0.8071,0.2661,15
+tgt,lime,seed,0.8249,0.2457,15
+tgt,shap,perturb,0.8635,0.2407,15

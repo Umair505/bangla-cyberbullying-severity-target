@@ -1,0 +1,7 @@
+task,method,comprehensiveness,sufficiency
+sev,lime,0.5835,0.1557
+sev,random,0.1815,0.5102
+sev,shap,0.5863,0.1346
+tgt,lime,0.4767,0.1172
+tgt,random,0.0919,0.4707
+tgt,shap,0.4928,0.0949

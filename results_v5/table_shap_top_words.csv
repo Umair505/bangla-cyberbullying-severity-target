@@ -1,0 +1,65 @@
+﻿Task,Predicted class,Rank,Word,Mean SHAP,n occurrences
+Severity,Neutral,1,ভাই,0.074,3
+Severity,Neutral,2,সাফা,0.0131,5
+Severity,Neutral,3,সবাই,0.0122,4
+Severity,Neutral,4,না,0.0071,10
+Severity,Neutral,5,হা,0.0019,3
+Severity,Neutral,6,কি,0.0012,8
+Severity,Neutral,7,ছবি,0.0007,3
+Severity,Neutral,8,জন্য,0.0006,3
+Severity,Neutral,9,নিয়ে,0.0005,3
+Severity,Neutral,10,নাটক,0.0004,3
+Severity,Mild,1,রাজাকার,0.8125,4
+Severity,Mild,2,বাল,0.6153,4
+Severity,Mild,3,দেশ,0.0368,3
+Severity,Mild,4,কি,0.0153,4
+Severity,Mild,5,করে,0.012,5
+Severity,Mild,6,জন্য,0.0077,3
+Severity,Mild,7,হিরো,0.0004,3
+Severity,Mild,8,আলম,0.0001,3
+Severity,Mild,9,আপনার,0.0001,3
+Severity,Mild,10,এই,-0.0008,4
+Severity,Moderate,1,নটি,0.5073,3
+Severity,Moderate,2,জুতা,0.4018,12
+Severity,Moderate,3,পুটকিতে,0.1298,3
+Severity,Moderate,4,যদি,0.0904,3
+Severity,Moderate,5,গালে,0.0477,3
+Severity,Moderate,6,আমার,0.0319,6
+Severity,Moderate,7,করব,0.023,3
+Severity,Moderate,8,এই,0.0198,6
+Severity,Moderate,9,কি,0.0177,4
+Severity,Moderate,10,আছে,0.0174,5
+Severity,Severe,1,ফাঁসি,0.9235,6
+Severity,Severe,2,ফাসি,0.7182,3
+Severity,Severe,3,মারা,0.254,3
+Severity,Severe,4,দিয়ে,0.1577,6
+Severity,Severe,5,হবে,0.1513,3
+Severity,Severe,6,কুত্তা,0.1336,5
+Severity,Severe,7,মেরে,0.1202,3
+Severity,Severe,8,চাই,0.0709,3
+Severity,Severe,9,তোরে,0.0667,3
+Severity,Severe,10,করে,0.0552,5
+Target,No Target,1,ভাই,0.0728,3
+Target,No Target,2,সাফা,0.0122,5
+Target,No Target,3,সবাই,0.0119,4
+Target,No Target,4,কি,0.0084,9
+Target,No Target,5,না,0.0057,10
+Target,No Target,6,হা,0.0033,3
+Target,No Target,7,জন্য,0.0005,3
+Target,No Target,8,নাটক,0.0005,3
+Target,No Target,9,ও,0.0005,3
+Target,No Target,10,নিয়ে,0.0003,3
+Target,Individual,1,ফাঁসি,0.7533,6
+Target,Individual,2,জারজ,0.7019,3
+Target,Individual,3,বাল,0.5567,4
+Target,Individual,4,কুত্তা,0.4964,5
+Target,Individual,5,নটি,0.4591,3
+Target,Individual,6,পুটকিতে,0.3136,3
+Target,Individual,7,জুতা,0.2913,11
+Target,Individual,8,মাগি,0.2901,3
+Target,Individual,9,মারা,0.1957,4
+Target,Individual,10,মেরে,0.1852,4
+Target,Group,1,রাজাকার,0.4782,3
+Target,Group,2,করে,0.0137,4
+Target,Group,3,এক,-0.0047,3
+Target,Group,4,দেওয়া,-0.0082,3

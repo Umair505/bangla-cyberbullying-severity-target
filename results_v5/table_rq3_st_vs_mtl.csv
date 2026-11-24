@@ -1,0 +1,7 @@
+Backbone,Task,ST Macro-F1,MTL Macro-F1,Delta (MTL-ST)
+BanglaBERT,Severity,0.7396,0.7356,-0.004
+BanglaBERT,Target,0.6322,0.6576,0.0254
+XLM-R,Severity,0.7239,0.7301,0.0062
+XLM-R,Target,0.6167,0.6149,-0.0018
+mBERT,Severity,0.7543,0.7167,-0.0376
+mBERT,Target,0.5819,0.6034,0.0215

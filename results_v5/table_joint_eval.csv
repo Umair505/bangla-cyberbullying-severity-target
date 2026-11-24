@@ -1,0 +1,12 @@
+Severity system,Target system,Joint exact-match,Sev ok / Tgt wrong,Sev wrong / Tgt ok,Both wrong,Pred consistency
+BanglaBERT (ST),BanglaBERT (ST),0.7457,0.0832,0.0844,0.0867,0.9282
+XLM-R (ST),XLM-R (ST),0.6887,0.1106,0.0867,0.114,0.8951
+mBERT (ST),mBERT (ST),0.7092,0.1209,0.0513,0.1186,0.9145
+BanglaBERT (MTL),BanglaBERT (MTL),0.7719,0.0479,0.0627,0.1174,0.9909
+XLM-R (MTL),XLM-R (MTL),0.7343,0.0753,0.0593,0.1311,0.9544
+mBERT (MTL),mBERT (MTL),0.7446,0.0661,0.0479,0.1414,0.9806
+ST-Ens WeightedVote,ST-Ens WeightedVote,0.756,0.0764,0.0821,0.0855,0.9316
+MTL-Ens WeightedVote,MTL-Ens WeightedVote,0.7218,0.0981,0.0958,0.0844,0.8962
+All-Ens WeightedVote,All-Ens WeightedVote,0.7469,0.0958,0.0627,0.0946,0.9225
+TF-IDF+SVM,TF-IDF+SVM,0.7309,0.0775,0.0616,0.13,0.9225
+ST-Ens WeightedVote,All-Ens SoftVote,0.756,0.0764,0.081,0.0867,0.9236

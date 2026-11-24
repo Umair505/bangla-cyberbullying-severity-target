@@ -1,0 +1,35 @@
+{
+  "n_train": 4102,
+  "n_val": 879,
+  "n_test": 877,
+  "split_id": "0721b362d1",
+  "seed": 42,
+  "epochs": 6,
+  "max_len": 128,
+  "batch_size": 16,
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "transformers": "5.22.1",
+    "scikit-learn": "1.6.1",
+    "shap": "0.54.1",
+    "lime": "0.2.0.1",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3"
+  },
+  "best_by_validation": {
+    "sev": "ST-Ens WeightedVote",
+    "tgt": "All-Ens SoftVote"
+  },
+  "test_best": {
+    "sev": {
+      "Accuracy": 0.8324,
+      "Macro-F1": 0.751,
+      "Weighted-F1": 0.8301
+    },
+    "tgt": {
+      "Accuracy": 0.8369,
+      "Macro-F1": 0.6434,
+      "Weighted-F1": 0.8366
+    }
+  }
+}
